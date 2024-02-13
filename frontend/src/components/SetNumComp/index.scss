@@ -1,0 +1,21 @@
+.set-num-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  font-family: 'mont';
+  
+  button {
+    padding: 0.8rem;
+    border: none;
+    outline: none;
+    border-radius: 0.2rem;
+    background-color: #7f7f7f;
+  }
+
+  .num {
+    font-size: 2rem;
+  }
+}
